@@ -2,6 +2,12 @@
 
 Sample project made with flutter to practice [rive](https://rive.app/) animation
 
+## Demo Preview
+
+<div style="display: flex; justify-content: center;" >
+  <img src="demo/simple_rive_animation_with_flutter.gif" alt="Rive animation demo" style="width: 50%;"/>
+</div>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
